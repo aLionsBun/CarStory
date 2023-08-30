@@ -3,6 +3,8 @@
 # Tell the story of your car once, CarStory will tell it a million times.
 Simplify the process of monitoring your car's condition: save information about passed technical inspections, receive service reminders, view expenses and much more!
 
+[Take a look at CarStory here!](/promo.pdf "Promotional material")
+
 ## App history
 Initially CarStory was designed as a bachelor project titled *"Mobile application for the systematization of information about passing technical inspections by car"* developed by **Anna Menchykova** (formerly **Anna Bilous**).
 
